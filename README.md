@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **psivaiah6174@gmail.com**
 
-- ⚡ Fun fact **GitHub is like a **relationship—you push, pull, commit, and sometimes **revert mistakes**, but in the end, you're just hoping it doesn’t get **forked**! 😆**
+- ⚡ Fun fact GitHub is like a **relationship—you push, pull, commit, and sometimes revert mistakes, but in the end, you're just hoping it doesn’t get forked! 😆
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
