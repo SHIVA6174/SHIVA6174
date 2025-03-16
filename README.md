@@ -3,9 +3,9 @@
 
 I am a **Full-Stack Developer** passionate about building scalable and efficient web applications. I specialize in **Java, Servlets, and JDBC** for backend development and enjoy working with modern frontend technologies.
 
-🚀 Currently working on a **Food Delivery Application** using Java, Servlets, and JDBC.
-📚 Learning **DSA (Java)** and **MERN Stack**.
-🤝 Looking to **collaborate** on full-stack projects.
+🚀 Currently working on a **Food Delivery Application** using Java, Servlets, and JDBC.<br/>
+📚 Learning **DSA (Java)** and **MERN Stack**.<br/>
+🤝 Looking to **collaborate** on full-stack projects.<br/>
 💬 Fun Fact: *I speak multiple languages... but only to my computer!*
 
 ---
@@ -22,7 +22,7 @@ I am a **Full-Stack Developer** passionate about building scalable and efficient
 
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Servlets](https://img.shields.io/badge/Servlets-%23007ACC.svg?style=for-the-badge) ![JSP](https://img.shields.io/badge/JSP-%23007ACC.svg?style=for-the-badge) ![JDBC](https://img.shields.io/badge/JDBC-%23007ACC.svg?style=for-the-badge) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge) ![Spring JPA](https://img.shields.io/badge/Spring%20JPA-%236DB33F.svg?style=for-the-badge) ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge)
+<br/> ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge) ![Spring JPA](https://img.shields.io/badge/Spring%20JPA-%236DB33F.svg?style=for-the-badge) ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
