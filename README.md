@@ -1,6 +1,9 @@
 ## Hi there, I'm Shiva! 👋
 
-I am a **Full-Stack Java Developer** passionate about building scalable and efficient web applications. <br/>I specialize in **Java, Servlets, JDBC, and Spring Boot** for backend development and enjoy working with modern frontend technologies.
+I am a **Full-Stack Java Developer** passionate about building scalable and efficient web applications.<br/>  
+I specialize in **Java, Servlets, JDBC, and Spring Boot** for backend development and enjoy working with modern frontend technologies.  
+I am a **quick learner** who enjoys solving problems and improving my skills.<br/>    
+
 
 🚀 Currently working on a **Food Delivery Application** using Java, Servlets, and JDBC.<br/>
 📚 Learning **DSA (Java)** and **MERN Stack**.<br/>
