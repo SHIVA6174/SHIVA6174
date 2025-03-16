@@ -21,10 +21,11 @@ I am a **Full-Stack Developer** passionate about building scalable and efficient
 
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Servlets](https://img.shields.io/badge/Servlets-%23007ACC.svg?style=for-the-badge) ![JSP](https://img.shields.io/badge/JSP-%23007ACC.svg?style=for-the-badge) ![JDBC](https://img.shields.io/badge/JDBC-%23007ACC.svg?style=for-the-badge) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-<br/> ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge) ![Spring JPA](https://img.shields.io/badge/Spring%20JPA-%236DB33F.svg?style=for-the-badge) ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge) 
+<br/>![Spring JPA](https://img.shields.io/badge/Spring%20JPA-%236DB33F.svg?style=for-the-badge) ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge)
 
 ### 📂 Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🏢 Hosting / SaaS
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
@@ -42,4 +43,4 @@ I am a **Full-Stack Developer** passionate about building scalable and efficient
 ![](https://github-profile-trophy.vercel.app/?username=SHIVA6174&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## ✨ Dev Quote of the Day
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=00FF00&center=true&vCenter=true&width=1000&height=50&lines=%22Keep+it+simple.%22;%22Code+is+like+humor.%22;%22Talk+is+cheap%2C+show+me+the+code.%22;%22Simplicity+wins.%22;%22Fix+the+cause%2C+not+the+symptom.%22)
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=008080&center=true&vCenter=true&width=1000&height=50&lines=%22Keep+it+simple.%22;%22Code+is+like+humor.%22;%22Talk+is+cheap%2C+show+me+the+code.%22;%22Simplicity+wins.%22;%22Fix+the+cause%2C+not+the+symptom.%22)
