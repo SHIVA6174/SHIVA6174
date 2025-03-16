@@ -30,7 +30,7 @@ I am a **Full-Stack Java Developer** passionate about building scalable and effi
 ## 🗄️ Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
-## 🛠️ DevOps / Deployment
+## 🛠️ Development / Deployment
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ---
 ## 🧪 Testing Frameworks
