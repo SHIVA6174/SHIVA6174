@@ -23,12 +23,7 @@ I am a **Full-Stack Java Developer** passionate about building scalable and effi
 ---
 
 ## ⚙️ Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Servlets](https://img.shields.io/badge/Servlets-%23007ACC.svg?style=for-the-badge) 
-![JSP](https://img.shields.io/badge/JSP-%23007ACC.svg?style=for-the-badge) 
-![JDBC](https://img.shields.io/badge/JDBC-%23007ACC.svg?style=for-the-badge) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Servlets](https://img.shields.io/badge/Servlets-%23007ACC.svg?style=for-the-badge) ![JSP](https://img.shields.io/badge/JSP-%23007ACC.svg?style=for-the-badge) ![JDBC](https://img.shields.io/badge/JDBC-%23007ACC.svg?style=for-the-badge) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge) <br/>
 ![Spring JPA](https://img.shields.io/badge/Spring%20JPA-%236DB33F.svg?style=for-the-badge) 
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge)  
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23007ACC.svg?style=for-the-badge)  
@@ -41,12 +36,10 @@ I am a **Full-Stack Java Developer** passionate about building scalable and effi
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ---
 ## 🧪 Testing Frameworks
-![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)  
-![Mockito](https://img.shields.io/badge/Mockito-%234DB33D.svg?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-%234DB33D.svg?style=for-the-badge)
 ---
 ## 📡 API Development
-![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge)  
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ---
 ## ☁️ Hosting / SaaS
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
@@ -61,6 +54,5 @@ I am a **Full-Stack Java Developer** passionate about building scalable and effi
 
 ## ✨ Dev Quote of the Day  
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&color=FF1493&center=true&vCenter=true&lines=Code%2C+test%2C+deploy%2C+repeat.;Keep+it+simple%2C+keep+it+fast.;Good+code+is+like+a+joke%2C+it+needs+no+explanation.;Talk+is+cheap%2C+show+me+the+code." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&color=FF1493&center=true&vCenter=true&lines=Code%2C+test%2C+deploy%2C+repeat.;Keep+it+simple%2C+keep+it+fast.;Good+code+is+like+a+joke%2C+it+needs+no+explanation.;Talk+is+cheap%2C+show+me+the+code." />
 </p>
----
