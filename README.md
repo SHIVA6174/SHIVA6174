@@ -24,10 +24,7 @@ I am a **Full-Stack Java Developer** passionate about building scalable and effi
 
 ## ⚙️ Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Servlets](https://img.shields.io/badge/Servlets-%23007ACC.svg?style=for-the-badge) ![JSP](https://img.shields.io/badge/JSP-%23007ACC.svg?style=for-the-badge) ![JDBC](https://img.shields.io/badge/JDBC-%23007ACC.svg?style=for-the-badge) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge) <br/>
-![Spring JPA](https://img.shields.io/badge/Spring%20JPA-%236DB33F.svg?style=for-the-badge) 
-![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge)  
-![Hibernate](https://img.shields.io/badge/Hibernate-%23007ACC.svg?style=for-the-badge)  
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Spring JPA](https://img.shields.io/badge/Spring%20JPA-%236DB33F.svg?style=for-the-badge) ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge) ![Hibernate](https://img.shields.io/badge/Hibernate-%23007ACC.svg?style=for-the-badge) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ---
 ## 🗄️ Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -54,5 +51,5 @@ I am a **Full-Stack Java Developer** passionate about building scalable and effi
 
 ## ✨ Dev Quote of the Day  
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&color=FF1493&center=true&vCenter=true&lines=Code%2C+test%2C+deploy%2C+repeat.;Keep+it+simple%2C+keep+it+fast.;Good+code+is+like+a+joke%2C+it+needs+no+explanation.;Talk+is+cheap%2C+show+me+the+code." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&color=FF1493&center=true&vCenter=true&lines=Code%2C+test%2C+deploy%2C+repeat.;Keep+it+simple%2C+keep+it+fast.;Good+code+is+like+a+joke%2C+it+needs+no+explanation.;Talk+is+cheap%2C+show+me+the+code." />
 </p>
